@@ -16,4 +16,3 @@ Perfect for managing user roles in Discord servers automatically.
 2. Install dependencies by running the provided `requirements.bat` file or by typing `pip install colorama discord.py` in your Terminal.
 3. Replace `YOUR_TARGET_ROLE_ID` and `YOUR_BOT_ROLE_ID` with the corresponding role IDs in your server.
 4. Run the bot and enjoy automatic role assignments!
-5. 
